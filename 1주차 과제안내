@@ -1,5 +1,7 @@
 @쌍으로 독립(pairwise independent)이지만 상호 독립(mutually independent)은 아닌 간단한 예
 
+동전 던지기 예시로 찾아보았습니다 
+
 동전 던지기 2회 반복 (앞면 Head: H , 뒷면 Tail :T)
 
 사건 A : 첫번째 시도에서 앞면이 나오는 사건
@@ -8,8 +10,8 @@
 
 전체 사건 S : { HH , HT , TH, TT}
 사건 A : { HH , HT }
-사건 B : { TH , HH }
-사건 C : { TT,  HH }
+사건 B : { HH , TH  }
+사건 C : { HH , TT  }
 
 사건 A의 확률 P(A) : 1/2
 사건 B의 확률 P(B) : 1/2
@@ -20,9 +22,9 @@
 사건 BnC : {HH}
 사건 AnBnC : {HH}
 
-P(AnB) : 1/4  = P(A)*P(B)
-P(AnC) : 1/4  = P(A)*P(C)
-P(BnC) : 1/4  = P(B)*P(C)
+P(AnB) : 1/4  = P(A)*P(B)
+P(AnC) : 1/4  = P(A)*P(C)
+P(BnC) : 1/4  = P(B)*P(C)
 P(AnBnC) : 1/4 이므로 P(A)*P(B)*P(C) = 1/8과 다름
 
 
