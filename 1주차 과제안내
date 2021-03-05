@@ -25,7 +25,7 @@
 P(AnB) : 1/4  = P(A)*P(B)
 P(AnC) : 1/4  = P(A)*P(C)
 P(BnC) : 1/4  = P(B)*P(C)
-P(AnBnC) : 1/4 이므로 P(A)*P(B)*P(C) = 1/8과 다름
+P(AnBnC) : 1/4 ,  P(A)*P(B)*P(C) = 1/8과 다름
 
 
 
