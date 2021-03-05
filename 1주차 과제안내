@@ -1,4 +1,4 @@
-쌍으로 독립(pairwise independent)이지만 상호 독립(mutually independent)은 아닌 간단한 예
+@쌍으로 독립(pairwise independent)이지만 상호 독립(mutually independent)은 아닌 간단한 예
 
 동전 던지기 2회 반복 (앞면 Head: H , 뒷면 Tail :T)
 
@@ -27,5 +27,4 @@ P(AnBnC) : 1/4 이므로 P(A)*P(B)*P(C) = 1/8과 다름
 
 
 
-
-몬티홀 문제 
+@몬티홀 문제 
